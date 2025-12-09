@@ -1,6 +1,6 @@
 ## 🛡️ Security Policy
 
-I do take the security of the projects we maintain seriously. While **Anti-YouTube-Shorts** is a client-side filter list and generally poses minimal inherent security risk, I appreciate any responsible disclosure of vulnerabilities that may affect users of this project.
+I do take the security of the projects i maintain seriously, sometimes i guess hahaha. While **Anti-YouTube-Shorts** is a client-side filter list and generally poses minimal inherent security risk, I appreciate any responsible disclosure of vulnerabilities that may affect users of this project.
 
 ### Supported Versions
 
