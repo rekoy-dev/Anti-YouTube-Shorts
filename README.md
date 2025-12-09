@@ -1,4 +1,4 @@
-# 🛑 Anti-YouTube Shorts
+# ▶️🛑 Anti-YouTube Shorts
 
 A simple filter script for uBlock Origin/Lite that completely removes/hides all traces of YouTube Shorts to save you from Brainrot also help you stay focused and productive.
 
